@@ -6,11 +6,11 @@ It has a [link](https://www.github.com/RayMacBart/test-repository).
 > 
 > *- Julius Caesar*
 
-I **like** what I see.
+I **like** what I C.
 
 *****
 .......
 Nothing else to see here!
 
-![Unknown pic](https://drive.google.com/uc?id=12mSnPuN_X8ukh3LK4kW656emfFSN3vcO)
+[![Unknown pic](https://drive.google.com/uc?id=12mSnPuN_X8ukh3LK4kW656emfFSN3vcO)](https://github.com/RayMacBart)
 
